@@ -1,0 +1,13 @@
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/bin/Debug/netcoreapp3.1/MarsReview.deps.json
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/bin/Debug/netcoreapp3.1/MarsReview.runtimeconfig.json
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/bin/Debug/netcoreapp3.1/MarsReview.runtimeconfig.dev.json
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/bin/Debug/netcoreapp3.1/MarsReview.dll
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/bin/Debug/netcoreapp3.1/MarsReview.pdb
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/obj/Debug/netcoreapp3.1/MarsReview.csproj.AssemblyReference.cache
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/obj/Debug/netcoreapp3.1/MarsReview.GeneratedMSBuildEditorConfig.editorconfig
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/obj/Debug/netcoreapp3.1/MarsReview.AssemblyInfoInputs.cache
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/obj/Debug/netcoreapp3.1/MarsReview.AssemblyInfo.cs
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/obj/Debug/netcoreapp3.1/MarsReview.csproj.CoreCompileInputs.cache
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/obj/Debug/netcoreapp3.1/MarsReview.dll
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/obj/Debug/netcoreapp3.1/MarsReview.pdb
+/Users/batuhanakdeniz/Desktop/MarsReview/MarsReview/MarsReview/obj/Debug/netcoreapp3.1/MarsReview.genruntimeconfig.cache

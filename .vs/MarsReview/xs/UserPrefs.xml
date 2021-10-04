@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{CFCE6FF1-FED9-48AB-A073-6FB3513C5DDA}|Default">
+  <MonoDevelop.Ide.ItemProperties.MarsReview PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MarsReviewTests/UnitTest1.cs">
+    <Files>
+      <File FileName="MarsReview/Program.cs" Line="7" Column="1" />
+      <File FileName="MarsReview/Rover.cs" Line="33" Column="1" />
+      <File FileName="MarsReviewTests/UnitTest1.cs" Line="53" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MarsReview" expanded="True">
+            <Node name="MarsReview" expanded="True" />
+            <Node name="MarsReviewTests" expanded="True">
+              <Node name="UnitTest1.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MarsReview" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.MarsReviewTests FirstBuild="True" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
